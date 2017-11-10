@@ -4,8 +4,6 @@ MaxLSTM-CNN for semantic textual similarity
 
 Requirements
 -------------
+* NLTK (http://www.nltk.org/)
+* Keras with Tensorflow backend (https://keras.io/)
 
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
