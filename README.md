@@ -25,5 +25,5 @@ Run:
 ```
 python train.py
 ```
-The performance should get about 82% in Pearson's score on [STS Benchmark](http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz) dataset.
+The performance should get about 82.2% (±0.4) in Pearson's score on [STS Benchmark](http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz) dataset.
 
