@@ -1,5 +1,5 @@
 # MaxLSTM-CNN
-MaxLSTM-CNN for semantic textual similarity
+MaxLSTM-CNN employs multiple word embeddings for semantic textual similarity. The detail of this model can be found in [this paper](#)
 
 
 Requirements
