@@ -6,6 +6,7 @@ Requirements
 -------------
 * NLTK (http://www.nltk.org/)
 * Keras with Tensorflow backend (https://keras.io/)
+* Gensim (https://radimrehurek.com/gensim/)
 
 Pre-trained word embeddings
 -------------
